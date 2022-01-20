@@ -11,7 +11,7 @@ The owner of an investment firm wants to invest in movies and needed help in pre
 **3. What dataset(s) do you plan to use, and how will you obtain the data?**
 
 scraping out data from https://www.boxofficemojo.com
-scraping out data from  https://www.the-numbers.com
+and   https://www.the-numbers.com
 --using BeatifulSoup Python Library
 
 **4. What characteristics/features do you expect to work with?**
