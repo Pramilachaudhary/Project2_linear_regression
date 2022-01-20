@@ -1,6 +1,6 @@
 # Linear_Regression Project Proposal
 
-## 1. What is the framing question of your analysis, or the purpose of the model/system you plan to build?**
+**1. What is the framing question of your analysis, or the purpose of the model/system you plan to build?**
 
  The goal of this project is to build a model to predict total domestic profit percentage for a movie.
 
