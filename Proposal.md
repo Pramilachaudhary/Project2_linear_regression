@@ -16,7 +16,7 @@ scraping out data from  https://www.the-numbers.com
 **What characteristics/features do you expect to work with?**
 
 Features that are included in this analysis would be:
-movie titile, distributor, opening,release date, MPAA, 
+movie titile, distributor, opening,release date, MPAA, running time, genres, in release, widest release, domestic gross, production budgets, lead Actors, Directors,Screen writer, story by, producer.
 
 **If modeling, what will you predict as your target?**
 To predict total domestic profit percentage for a movie
@@ -25,4 +25,4 @@ To predict total domestic profit percentage for a movie
 Pandas, Numpy, Beautiful soup, Scikit-learn, Matplotlip, Seaborn.
 
 **MVP Goal:**
-My goal is to find relationships between the features and the target.
+My initial goal is to find relationships between the features and the target.
