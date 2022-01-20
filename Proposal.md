@@ -17,7 +17,7 @@ scraping out data from  https://www.the-numbers.com
 **4. What characteristics/features do you expect to work with?**
 
 Features that are included in this analysis would be:
-movie titile, distributor, opening,release date, MPAA, running time, genres, in release, widest release, domestic gross, production budgets, lead Actors, Directors,Screen writer, story by, producer.
+movie titile, distributor, opening,release date, MPAA rating, running time, genres, in release, widest release, domestic gross, production budgets, max theater count, opening weekend box office, lead Actors, Directors,Screen writer, story by, producer.
 
 **5. If modeling, what will you predict as your target?**
 
