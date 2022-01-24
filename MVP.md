@@ -1,16 +1,16 @@
 # Predicting Domestic Revenue of a Movie
 
-**Objective: 
+**Objective:** 
   
   Creating a linear regression model to predict domestic Revenue of a movie based on different features.
 
-**Methodology: 
+**Methodology:** 
   
  1. Scraped 1200 movies from boxofficemojo.com and worked on 459 data points because I was only able to get movie budget for 459 movies from the same website
  2. created the data frame from all the srcaped data and did some cleaning in order to get the necessary values.
  3. Splited data into train and test data frames and predicted the movie revenue using Linear Regression model.
   
-**Output: 
+**Output:** 
 
 for Linear Regression model:
 used 459 data points
