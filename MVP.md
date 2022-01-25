@@ -22,3 +22,5 @@ Prediction on test data set = $34762487.0779915
 
 <img width="774" alt="Screen Shot 2022-01-24 at 3 40 21 PM" src="https://user-images.githubusercontent.com/89863226/150883723-e9197c9e-d6e4-4001-93b6-21ad907fe499.png">
 
+Further in the analysis  I would add more features like running_time, year, MPAA rating to make the model unbias and will
+creating the models with cross validation and regularization in order to determine best model to fit data.
