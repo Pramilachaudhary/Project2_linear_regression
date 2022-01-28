@@ -16,7 +16,7 @@ The owner of an investment firm wants to invest in movies and needed help in pre
   2. Data cleaning: Removed non required columns, records with missing values, null values, duplicate rows.
   3. Feature engineering: added dummies for each column with multiple values.
   4. EDA: Did data visualization get the better idea on feature selection.
-  5. Regression Analysis: linear regression and Lasso is used to train/validate the data set.
+  5. Regression Analysis: linear regression and Lasso is used to train/validate the data set and calculated the r2 and MSE score for each model.
   6. prediction: found the best model and predicted Gross Domestic revenue(Target).
 
 
