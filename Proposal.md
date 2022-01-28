@@ -2,11 +2,11 @@
 
 **1. What is the framing question of your analysis, or the purpose of the model/system you plan to build?**
 
- The goal of this project is to build a model to predict total domestic profit percentage for a movie.
+ The goal of this project is to build a model to predict total domestic gross for a movie.
 
 **2. Who benefits from exploring this question or building this model/system?**
 
-The owner of an investment firm wants to invest in movies and needed help in predicting the total profit perfectage for a movie. 
+The owner of an investment firm wants to invest in movies and needed help in predicting the total domestic revenue perfectage for a movie. 
 
 **3. What dataset(s) do you plan to use, and how will you obtain the data?**
 
