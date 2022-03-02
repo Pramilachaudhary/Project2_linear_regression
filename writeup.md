@@ -9,7 +9,7 @@ Trained the data over Linear regression and Lasso regression and determined the 
 The owner of an investment firm wants to invest in movies and needed help in predicting the Domestic revenue for a movie.
 
 # Data Set
-  1070 data point from website : https://www.boxofficemojo.com
+  2000+ data point from website : https://www.boxofficemojo.com
 
 # Algorithms
   1. web scraping : using Beautiful soup.
